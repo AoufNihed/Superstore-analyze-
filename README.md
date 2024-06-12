@@ -14,7 +14,7 @@ The goal of this project is to gain insights into the sales performance of a sup
 
 ## Notebook Guide
 
-The Jupyter Notebook (`superstore_analysis.ipynb`) provides a step-by-step walkthrough of the analysis process. It includes:
+The Jupyter Notebook (`superstore.ipynb`) provides a step-by-step walkthrough of the analysis process. It includes:
 
 1. **Data Loading and Cleaning:** Loading the superstore sales data and performing necessary cleaning and preprocessing steps.
 2. **Exploratory Data Analysis:** Conducting exploratory data analysis to understand the data's characteristics and distributions.
